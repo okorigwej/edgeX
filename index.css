@@ -1,0 +1,461 @@
+.edgex-1-icon {
+  position: absolute;
+  top: 83px;
+  left: 109px;
+  width: 106px;
+  height: 31px;
+  overflow: hidden;
+}
+.careers {
+  position: absolute;
+  top: 90px;
+  left: 257px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  width: 58px;
+  height: 18px;
+}
+.are-you-ready {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+  font-weight: 300;
+}
+.fintech-industry {
+  margin: 0;
+  font-weight: 500;
+}
+.are-you-ready-container,
+.explore-us {
+  position: absolute;
+  top: 223px;
+  left: 109px;
+  font-size: var(--font-size-17xl);
+  line-height: 101.92%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 321px;
+  height: 131px;
+}
+.explore-us {
+  top: 363px;
+  font-weight: 500;
+  color: var(--color-blueviolet);
+  width: 195px;
+  height: 40px;
+}
+.landing-child {
+  position: absolute;
+  top: 78px;
+  left: 759px;
+  border-radius: var(--br-14xl);
+  background-color: var(--color-blueviolet);
+  width: 158px;
+  height: 44px;
+}
+.get-early-access {
+  position: absolute;
+  top: 90px;
+  left: 776px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 123px;
+  height: 18px;
+  cursor: pointer;
+}
+.business-owners-finance {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.leakages {
+  margin: 0;
+}
+.business-owners-finance-container {
+  position: absolute;
+  top: 442px;
+  left: 109px;
+  letter-spacing: -0.03em;
+  line-height: 101.92%;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 400px;
+  height: 71px;
+}
+.landing-item {
+  position: absolute;
+  top: 300px;
+  left: 646px;
+  border-radius: 56px;
+  background-color: #3e3dfa;
+  width: 271px;
+  height: 377px;
+}
+.landing-inner {
+  position: absolute;
+  top: 223px;
+  left: 680px;
+  border-radius: var(--br-14xl);
+  background-color: var(--color-black);
+  width: 202px;
+  height: 408px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 550px;
+  left: 100px;
+  border-radius: var(--br-26xl);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 391px;
+  height: 46px;
+}
+.your-email-address {
+  position: absolute;
+  top: 566px;
+  left: 138px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.03em;
+  line-height: 101.92%;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 125px;
+  height: 15px;
+}
+.landing-child1 {
+  position: absolute;
+  top: 550px;
+  left: 330px;
+  border-radius: var(--br-15xl);
+  background-color: var(--color-blueviolet);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 161px;
+  height: 46px;
+}
+.phone-1-icon {
+  position: absolute;
+  top: 184px;
+  left: 663px;
+  width: 237px;
+  height: 460px;
+  object-fit: cover;
+}
+.get-early-access1 {
+  position: absolute;
+  top: 564px;
+  left: 349px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 123px;
+  height: 18px;
+}
+.landing-child2 {
+  position: absolute;
+  top: 775px;
+  left: calc(50% - 380px);
+  border-radius: 39px;
+  background-color: var(--color-black);
+  width: 761px;
+  height: 318px;
+}
+.we-made-banking {
+  position: absolute;
+  top: 830px;
+  left: calc(50% - 147px);
+  font-size: 20px;
+  line-height: 101.92%;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 295px;
+  height: 25px;
+}
+.original-b1d85edc10daffa811c30-icon {
+  position: absolute;
+  top: 1284px;
+  left: calc(50% - 373px);
+  width: 747px;
+  height: 499px;
+  object-fit: cover;
+}
+.mobile-app-to {
+  position: absolute;
+  top: 1329px;
+  left: calc(50% - 190px);
+  font-size: 24px;
+  line-height: 101.92%;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 380px;
+  height: 26px;
+}
+.landing-child3 {
+  position: absolute;
+  top: 1734px;
+  left: 0;
+  background-color: #f5f5f5;
+  width: 1025px;
+  height: 321px;
+}
+.our-promise-is {
+  position: absolute;
+  top: 1824px;
+  left: 146px;
+  letter-spacing: -0.03em;
+  line-height: 128%;
+  font-family: var(--font-montserrat);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 323px;
+  height: 54px;
+}
+.patch {
+  margin-block-start: 0;
+  margin-block-end: 23px;
+}
+.help-center-account-container,
+.patch-updates-beta-container,
+.patch-updates-careers-container {
+  position: absolute;
+  top: 1824px;
+  left: 554px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.03em;
+  line-height: 33%;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 63px;
+  height: 72px;
+}
+.help-center-account-container,
+.patch-updates-beta-container {
+  left: 690px;
+  width: 62px;
+}
+.help-center-account-container {
+  left: 795px;
+  width: 143px;
+  height: 107px;
+}
+.landing-child4 {
+  position: absolute;
+  top: 1904px;
+  left: 146px;
+  border-radius: var(--br-26xl);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 342px;
+  height: 45px;
+}
+.email-icon-2 {
+  position: absolute;
+  top: 1921px;
+  left: 164px;
+  width: 15px;
+  height: 12px;
+  overflow: hidden;
+}
+.your-email-address1 {
+  position: absolute;
+  top: 1920px;
+  left: 184px;
+  letter-spacing: -0.03em;
+  line-height: 101.92%;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 122px;
+  height: 13px;
+}
+.landing-child5 {
+  position: absolute;
+  top: 1904px;
+  left: 331px;
+  border-radius: var(--br-15xl);
+  background-color: var(--color-blueviolet);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 157px;
+  height: 45px;
+}
+.get-early-access2 {
+  position: absolute;
+  top: 1918px;
+  left: 349px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 121px;
+  height: 16px;
+}
+.about-product,
+.company {
+  position: absolute;
+  top: 1786px;
+  left: calc(50% + 42px);
+  font-size: var(--font-size-smi);
+  line-height: 101.92%;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 103px;
+  height: 15px;
+}
+.company {
+  left: calc(50% + 177px);
+  width: 69px;
+}
+.group-child,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-14xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 202px;
+  height: 330px;
+}
+.group-inner,
+.group-item {
+  left: 234px;
+}
+.group-inner {
+  left: 469px;
+  width: 203px;
+}
+.access-to-transaction-container,
+.control-card-spend-container,
+.qr-transfer-a-container {
+  position: absolute;
+  top: 28px;
+  left: calc(50% + 168px);
+  line-height: 86%;
+  font-weight: 500;
+  display: inline-block;
+  width: 134px;
+  height: 31px;
+}
+.access-to-transaction-container,
+.qr-transfer-a-container {
+  top: 272px;
+  left: calc(50% - 76px);
+  width: 155px;
+  height: 32px;
+}
+.qr-transfer-a-container {
+  top: 42px;
+  left: calc(50% - 288px);
+  width: 106px;
+  height: 31px;
+}
+.fc3b5d165305525-icon,
+.fc3b5d1653dd05525-icon,
+.i-icon {
+  position: absolute;
+  top: 149px;
+  left: 504px;
+  width: 137px;
+  height: 181px;
+  object-fit: cover;
+}
+.fc3b5d165305525-icon,
+.i-icon {
+  top: 0;
+  left: 267px;
+  width: 142px;
+  height: 186px;
+}
+.i-icon {
+  top: 150px;
+  left: 33px;
+  width: 141px;
+  height: 179px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 923px;
+  left: 176px;
+  width: 672px;
+  height: 330px;
+  text-align: center;
+  color: var(--color-black);
+}
+.licensed-by-the,
+.support {
+  position: absolute;
+  display: inline-block;
+}
+.support {
+  top: 1786px;
+  left: calc(50% + 283px);
+  font-size: var(--font-size-smi);
+  line-height: 101.92%;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 57px;
+  height: 15px;
+}
+.licensed-by-the {
+  top: 1977px;
+  left: 721px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.03em;
+  line-height: 128%;
+  font-family: var(--font-montserrat);
+  width: 131px;
+  height: 17px;
+}
+.edgex-2-icon {
+  position: absolute;
+  top: 1783px;
+  left: 151px;
+  width: 106px;
+  height: 31px;
+  overflow: hidden;
+}
+.central-bank-of-nigeria-logo-1-icon {
+  position: absolute;
+  top: 1963px;
+  left: 852px;
+  width: 34px;
+  height: 46px;
+  object-fit: cover;
+}
+.email-icon-1,
+.frame-div,
+.logos-1-icon {
+  position: absolute;
+  top: 643px;
+  left: 110px;
+  width: 405px;
+  height: 22px;
+  overflow: hidden;
+}
+.email-icon-1,
+.frame-div {
+  top: 568px;
+  left: 116px;
+  width: 16px;
+  height: 13px;
+}
+.frame-div {
+  top: 2331px;
+  left: 790px;
+  width: 100px;
+  height: 100px;
+}
+.landing {
+  text-decoration: none;
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2055px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray);
+  font-family: var(--font-nohemi);
+}
